@@ -79,7 +79,7 @@ def display_interface():
     Toplam {survey.total_respondents} kişi ankete katılmıştır. 
     """)
 
-    st.markdown("Bu anketin gerçekleştirilmesinde emeği geçen [Altuğ Aygül](https://twitter.com/altugakgul?s=21)'e teşekkür ederiz.")
+    st.markdown("Bu anketin gerçekleştirilmesinde emeği geçen [Altuğ Akgül](https://twitter.com/altugakgul?s=21)'e teşekkür ederiz.")
     
     st.image("source/image.jpeg", caption="BT / Yazılım Sektörü")
 
