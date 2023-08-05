@@ -48,5 +48,5 @@ A big shoutout to [Altuğ Akgül](https://twitter.com/altugakgul?s=21) for makin
 
 ## License
 
-This project is under the MIT license. See the LICENSE for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/TKaanKoc/SurveyAnalysisApp/blob/main/LICENSE) for details.
 
